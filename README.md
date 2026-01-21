@@ -1,4 +1,4 @@
-# SKT-Decoration
+# SKT Decoration
 
 SKT Decoration is a clean and stylish WordPress theme made for decor and creative websites. It works well as a Decoration WordPress Theme Free for decorators, event stylists, and small decor businesses who want a simple online presence. The layout is neat and easy to read.
 
